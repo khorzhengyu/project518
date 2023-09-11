@@ -1,1 +1,1 @@
-Run the code accoding to the following files order: Features Engineering > Feature Selection > Machine Learning Algorithm
+Run the code according to the following files order: Features Engineering > Feature Selection > Machine Learning Algorithm
