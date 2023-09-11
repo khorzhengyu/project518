@@ -1,3 +1,1 @@
 The code are written in the following files order: Features Engineering > EDA > Feature Selection > Machine Learning Algorithm.
-Important: 
-For Feature Selection and Machine Learning Algorithm, after running the code, the output might be diffent from the report due to the use of kfoldcrossvalidation.
